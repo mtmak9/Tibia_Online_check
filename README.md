@@ -11,4 +11,4 @@
 - Change waiting time for check avaibility every 'X' minutes
 
 ## What app looks like
-![alt_text]https://github.com/mtmak9/Tibia_Online_check/blob/Projects/TibiaOnline_Check.png
+![alt_text](https://github.com/mtmak9/Tibia_Online_check/blob/Projects/TibiaOnline_Check.png)
